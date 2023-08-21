@@ -1,0 +1,110 @@
+body{
+    background-image: url('https://img.freepik.com/free-photo/abstract-digital-grid-black-background_53876-97647.jpg?w=900&t=st=1692612115~exp=1692612715~hmac=a844aca97b67283496e44192141c3d8b09fe734e39c074069c6438ee76fca234');
+
+}
+
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 12px;
+    text-align: center;
+  }
+  
+
+  h1 {
+    font-size: 32px;
+    color: #f0efef;
+    margin-bottom: 13px;
+  }
+  
+ 
+  input.form-control {
+    width: 70%;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #007bff;
+    border-radius: 5px 0 0 5px;
+  }
+  
+  button.btn-primary {
+    padding: 12.7px 30px;
+
+    font-size: 16px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    color: #fff;
+    cursor: pointer;
+  }
+  .spnName{
+    color: #f44336;
+  }
+
+  #search-results {
+    margin-top: 10px;
+  }
+  .firstDiv{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-end;
+  }
+ .btn{
+    margin-top: 13px;
+    padding: 8px 25px;
+    font-size: 12px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    
+ }
+ 
+  .text-danger {
+    color: red;
+    font-weight: bold;
+  }
+  
+ 
+  .list-group {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .list-group-item {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  
+  h3 {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+ 
+  p {
+    font-size: 16px;
+    color: #888;
+  }
+  
+  
+  .favorite-btn {
+    background-color: #ff5722;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .favorite-btn:hover {
+    background-color: #f44336;
+  }
+  
